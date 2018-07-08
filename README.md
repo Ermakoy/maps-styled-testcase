@@ -1,16 +1,9 @@
 # ts-react-ssr-boilerplate
 
 ## Getting Started
-```
-$ git clone https://github.com/sandervspl/ts-react-ssr-boilerplate
-```
 
 ```
-$ cd ts-react-ssr-boilerplate && npm i
-```
-
-```
-$ npm dev
+$ npm i && npm run dev
 ```
 
 ## Features
